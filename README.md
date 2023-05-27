@@ -1,4 +1,4 @@
-![Java CI with Gradle](https://github.com/Artpogorelov/PostmanEcho/actions/workflows/gradle-publish.yml/badge.svg)
+![Java CI with Gradle][![Build status](https://ci.appveyor.com/api/projects/status/qr50jbhfqq70f0xx?svg=true)](https://ci.appveyor.com/project/kensei93/postmanecho)
 
 ## Задача №3: Postman Echo
 
